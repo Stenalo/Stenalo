@@ -9,15 +9,15 @@
 **JavaScript:** Proficient in developing dynamic and interactive web applications. My experience includes [mention specific frameworks or libraries like React, Node.js, etc., if applicable based on your projects].
 
 * **See in action:**
-    * [BuildEsp Project Link](Link to your BuildEsp Project Repository) - Developed the frontend user interface using [mention specific JS framework/library] for a seamless user experience.
+    * [https://github.com/buildESP/BuildESP](Link to your BuildEsp Project Repository) - Developed the frontend user interface using [mention specific JS framework/library] for a seamless user experience.
     * [Cash Manager Project Link](Link to your Cash Manager Project Repository) - Implemented key financial logic and data visualization using JavaScript.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Quality Assurance (QA):** Dedicated to ensuring high-quality software through rigorous testing and attention to detail. I have experience in [mention specific QA methodologies or tools you've used, if applicable].
+**Quality Assurance (QA):** Dedicated to ensuring high-quality software through rigorous testing and attention to detail. I have experience in tools like Cypress, selenium, k6, vitest.
 
 * **Demonstrated in:**
-    * [BuildEsp Project Link](Link to your BuildEsp Project Repository) - Implemented comprehensive unit and integration tests to ensure the stability and reliability of the application.
+    * [https://github.com/buildESP/BuildESP](Link to your BuildEsp Project Repository) - Implemented comprehensive unit and integration tests to ensure the stability and reliability of the application.
     * [Cash Manager Project Link](Link to your Cash Manager Project Repository) - Conducted thorough testing of financial transactions and data integrity.
 
 [![QA](https://img.shields.io/badge/QA-Testing-blue)](https://www.softwaretestinginstitute.com/)
@@ -25,7 +25,7 @@
 **DevOps:** Experienced in implementing and maintaining efficient development and deployment pipelines. My skills include [mention specific DevOps tools or practices like CI/CD, Docker, Kubernetes, etc., if applicable].
 
 * **Applied in:**
-    * [BuildEsp Project Link](Link to your BuildEsp Project Repository) - Set up a CI/CD pipeline for automated building and deployment of the application using [mention specific tools].
+    * [https://github.com/buildESP/BuildESP](Link to your BuildEsp Project Repository) - Set up a CI/CD pipeline for automated building and deployment of the application using [Github actions, ci/cd].
     * [Cash Manager Project Link](Link to your Cash Manager Project Repository) - Utilized Docker for containerization to ensure consistent environments across development and production.
 
 [![DevOps](https://img.shields.io/badge/DevOps-Pipeline-brightgreen)](https://www.atlassian.com/devops)
@@ -33,8 +33,7 @@
 **Mobile Development:** Skilled in building engaging and user-friendly mobile applications using [mention specific technologies like React Native, Flutter, or native development if applicable].
 
 * **Featured in:**
-    * [BuildEsp Project Link](Link to your BuildEsp Project Repository) - Developed a responsive design ensuring optimal user experience on mobile devices.
-    * [Cash Manager Project Link](Link to your Cash Manager Project Repository) - Implemented a mobile-first approach for accessibility on various devices.
+    * [Cash Manager Project Link](Link to your Cash Manager Project Repository) - Implemented a mobile-first approach for accessibility on various devices for payments.
 
 [![Mobile Development](https://img.shields.io/badge/Mobile-Development-orange)](https://developer.android.com/)
 
